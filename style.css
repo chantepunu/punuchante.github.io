@@ -1,0 +1,49 @@
+<style>
+  .name {color: black;
+  size: 10;
+  font-family: Verdana;}
+  .address {size:5;
+  }
+  body {background-image: url("http://quoteauthor.com/wp-content/gallery/plain-background/plain-background.jpg");
+  font-family: Verdana;
+  }
+  .chante {size: 16;
+  }
+  .bullet {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f79f79;
+  font-family: Verdana;
+  font-size: 20px;
+  overflow: hidden;
+  }
+  .center {text-align:center;
+  }
+  .head {display: inline;
+  color: black;
+  text-align: center;
+  padding: 10px 20px;
+  float: left;
+  font-size: 20px;
+  }
+div.a {
+  line-height: normal;
+}
+  p {margin: 0;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link {
+  color: black
+  }
+  a:visited {
+  color: black
+  }
+  a:active {
+  color: black
+  }
+  li {
+  color: black
+  }
+</style>
